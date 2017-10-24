@@ -1,59 +1,57 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 吕佳文 (1600012173@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/lvjiawen
 
 ---
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1. 大概介绍</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 身高
+#### &nbsp; &nbsp; 1.2 体重
+#### &nbsp; &nbsp; 1.3 爱好
 
-### 2. 第二部分
+### 2. 个人经历
 
-### 3. 第三部分
+### 3. 未来梦想
 
 ---
 
-## 第一部分
+## 大概介绍
 
 ```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+家乡：江西  
+学校及专业：北京大学生命科学学院  
+宿舍楼：30楼
 ```
 
 ---
 
 ## 插图
 
-** Ada Lovelace **
+** 不是我的照片 **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+<img src="http://img2.3lian.com/2014/f5/89/d/56.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## `\(\lvjiawen{}\)` 
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+1.  身高：保密
+2.体重：保密
 
-Display formula:
+更多信息
 
-$$e^{i\pi} + 1 = 0$$
+请联系我邮箱
 
 ---
 
